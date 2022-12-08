@@ -1,0 +1,17 @@
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\bin\Release\net5.0\Points.Persistence.deps.json
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\bin\Release\net5.0\Points.Persistence.dll
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\bin\Release\net5.0\Points.Persistence.pdb
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\bin\Release\net5.0\Points.Application.dll
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\bin\Release\net5.0\Points.Domain.dll
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\bin\Release\net5.0\Points.Application.pdb
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\bin\Release\net5.0\Points.Domain.pdb
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\obj\Release\net5.0\Points.Persistence.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\obj\Release\net5.0\Points.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\obj\Release\net5.0\Points.Persistence.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\obj\Release\net5.0\Points.Persistence.AssemblyInfo.cs
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\obj\Release\net5.0\Points.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\obj\Release\net5.0\Points.Persistence.csproj.CopyComplete
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\obj\Release\net5.0\Points.Persistence.dll
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\obj\Release\net5.0\refint\Points.Persistence.dll
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\obj\Release\net5.0\Points.Persistence.pdb
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Persistence\obj\Release\net5.0\ref\Points.Persistence.dll

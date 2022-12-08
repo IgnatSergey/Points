@@ -1,0 +1,15 @@
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\bin\Debug\net5.0\Points.Application.deps.json
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\bin\Debug\net5.0\Points.Application.dll
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\bin\Debug\net5.0\Points.Application.pdb
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\bin\Debug\net5.0\Points.Domain.dll
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\bin\Debug\net5.0\Points.Domain.pdb
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\obj\Debug\net5.0\Points.Application.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\obj\Debug\net5.0\Points.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\obj\Debug\net5.0\Points.Application.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\obj\Debug\net5.0\Points.Application.AssemblyInfo.cs
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\obj\Debug\net5.0\Points.Application.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\obj\Debug\net5.0\Points.Application.csproj.CopyComplete
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\obj\Debug\net5.0\Points.Application.dll
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\obj\Debug\net5.0\refint\Points.Application.dll
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\obj\Debug\net5.0\Points.Application.pdb
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Application\obj\Debug\net5.0\ref\Points.Application.dll

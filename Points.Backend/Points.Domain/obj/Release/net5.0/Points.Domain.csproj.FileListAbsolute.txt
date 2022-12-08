@@ -1,0 +1,12 @@
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Domain\bin\Release\net5.0\Points.Domain.deps.json
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Domain\bin\Release\net5.0\Points.Domain.dll
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Domain\bin\Release\net5.0\Points.Domain.pdb
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Domain\obj\Release\net5.0\Points.Domain.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Domain\obj\Release\net5.0\Points.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Domain\obj\Release\net5.0\Points.Domain.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Domain\obj\Release\net5.0\Points.Domain.AssemblyInfo.cs
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Domain\obj\Release\net5.0\Points.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Domain\obj\Release\net5.0\Points.Domain.dll
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Domain\obj\Release\net5.0\refint\Points.Domain.dll
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Domain\obj\Release\net5.0\Points.Domain.pdb
+C:\Users\dell\Documents\GitHub\Points\Points.Backend\Points.Domain\obj\Release\net5.0\ref\Points.Domain.dll
